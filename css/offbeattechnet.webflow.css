@@ -1498,6 +1498,17 @@ figcaption {
   position: relative;
   inset: 0;
 }
+.dark-mode-hand-holder2 {
+  z-index: 1;
+  height: auto;
+  position: absolute;
+  margin-top: 150px;
+  margin-left: 25px;
+  inset: 0;
+}
+.image-logo{
+  width: 400px;
+}
 .text-meetx {
   font-size: 90px;
   font-weight:900;
