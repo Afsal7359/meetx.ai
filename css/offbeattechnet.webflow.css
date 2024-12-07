@@ -1551,10 +1551,10 @@ figcaption {
     width: 100%;
   }
   .textsub1{
-   display: none;
+   font-size: 13px;
   }
   .textsub2{
-    display: none;
+    font-size: 13px;
   }
 }
 
